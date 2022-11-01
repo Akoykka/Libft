@@ -1,5 +1,4 @@
-# Project Libft. 
-Helsinki Hive (42 school) project;  
+# Project Libft - Toolkit - Helsinki Hive (42 school) project;  
   
 Project time: ~150 hours over a span of 32 days;  
 
