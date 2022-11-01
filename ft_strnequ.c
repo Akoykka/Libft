@@ -6,11 +6,11 @@
 /*   By: akoykka <akoykka@student.hive.fi>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/11/17 11:32:03 by akoykka           #+#    #+#             */
-/*   Updated: 2021/12/07 22:06:26 by akoykka          ###   ########.fr       */
+/*   Updated: 2022/06/03 09:42:43 by akoykka          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "libft.h"
+#include "includes/libft.h"
 
 int	ft_strnequ(char const *s1, char const *s2, size_t n)
 {

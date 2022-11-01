@@ -6,11 +6,11 @@
 /*   By: akoykka <akoykka@student.hive.fi>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/11/18 14:04:21 by akoykka           #+#    #+#             */
-/*   Updated: 2021/12/07 22:06:39 by akoykka          ###   ########.fr       */
+/*   Updated: 2022/06/03 09:42:43 by akoykka          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "libft.h"
+#include "includes/libft.h"
 
 static int	ft_iswhitespace(char c)
 {

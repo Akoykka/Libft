@@ -3,14 +3,14 @@
 /*                                                        :::      ::::::::   */
 /*   ft_strncpy.c                                       :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: akoykka <koykka.atte@gmail.com>            +#+  +:+       +#+        */
+/*   By: akoykka <akoykka@student.hive.fi>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/11/07 12:01:37 by akoykka           #+#    #+#             */
-/*   Updated: 2021/12/03 20:28:53 by akoykka          ###   ########.fr       */
+/*   Updated: 2022/06/03 09:42:43 by akoykka          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "libft.h"
+#include "includes/libft.h"
 
 char	*ft_strncpy(char *dst, const char *src, size_t len)
 {

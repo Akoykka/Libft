@@ -3,14 +3,14 @@
 /*                                                        :::      ::::::::   */
 /*   ft_bzero.c                                         :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: akoykka <koykka.atte@gmail.com>            +#+  +:+       +#+        */
+/*   By: akoykka <akoykka@student.hive.fi>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/11/20 19:16:55 by akoykka           #+#    #+#             */
-/*   Updated: 2021/12/05 00:00:56 by akoykka          ###   ########.fr       */
+/*   Updated: 2022/06/03 09:37:44 by akoykka          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "libft.h"
+#include "includes/libft.h"
 
 void	ft_bzero(void *s, size_t n)
 {

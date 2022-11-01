@@ -6,11 +6,11 @@
 /*   By: akoykka <akoykka@student.hive.fi>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/11/07 16:26:34 by akoykka           #+#    #+#             */
-/*   Updated: 2021/12/07 22:06:05 by akoykka          ###   ########.fr       */
+/*   Updated: 2022/06/03 09:42:43 by akoykka          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "libft.h"
+#include "includes/libft.h"
 
 char	*ft_strcat(char *s1, const char *s2)
 {

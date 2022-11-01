@@ -6,11 +6,11 @@
 /*   By: akoykka <akoykka@student.hive.fi>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/11/05 15:18:23 by akoykka           #+#    #+#             */
-/*   Updated: 2021/12/06 21:45:07 by akoykka          ###   ########.fr       */
+/*   Updated: 2022/07/15 19:07:27 by akoykka          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "libft.h"
+#include "includes/libft.h"
 
 static int	ft_whtspc(char c)
 {
